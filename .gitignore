@@ -21,7 +21,7 @@ obj/
 
 # Executable and compiled files
 *.exe
-*.dll
+
 *.obj
 *.o
 *.lib
@@ -49,6 +49,6 @@ obj/
 *.idx
 *.cache
 *.exe
-*.dll
+
 *.pdb
 *.ilk
